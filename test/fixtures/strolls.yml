@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  duration: 1
+  date: 2019-10-24 17:21:08
+
+two:
+  duration: 1
+  date: 2019-10-24 17:21:08
